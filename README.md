@@ -3,7 +3,7 @@
 
 [[OpenReview](https://openreview.net/forum?id=BnQY9XiRAS)] [[arXiv](https://arxiv.org/pdf/2403.11857)] [[Code](https://github.com/divelab/AIRS)]
 
-The official implementation of Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR 2024).
+The official implementation of Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR 2024). Forked from AIRS repo [[Code](https://github.com/divelab/AIRS)].
 
 ![cover](assets/Comformer.png)
 
